@@ -1,0 +1,4 @@
+source ~/.dotfiles/.config/bash/shell
+source ~/.dotfiles/.config/bash/aliases 
+source ~/.dotfiles/.config/bash/prompt  
+source ~/.dotfiles/.config/bash/init    

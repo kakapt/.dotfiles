@@ -1,0 +1,10 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[pull]
+	rebase = true
+[user]
+	name = kakapt
+	email = phuocthinh.vu@gmail.com
